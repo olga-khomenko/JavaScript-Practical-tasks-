@@ -1,0 +1,22 @@
+{
+  "name": "ok-test-package",
+  "version": "1.0.0",
+  "description": "EPAM Automation course package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olga-khomenko/JavaScript-Practical-tasks-.git"
+  },
+  "keywords": [
+    "epam"
+  ],
+  "author": "Olga Khomenko",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/olga-khomenko/JavaScript-Practical-tasks-/issues"
+  },
+  "homepage": "https://github.com/olga-khomenko/JavaScript-Practical-tasks-#readme"
+}
