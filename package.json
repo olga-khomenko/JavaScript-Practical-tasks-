@@ -15,6 +15,9 @@
   ],
   "author": "Olga Khomenko",
   "license": "BSD-3-Clause",
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  },
   "bugs": {
     "url": "https://github.com/olga-khomenko/JavaScript-Practical-tasks-/issues"
   },
