@@ -1,5 +1,5 @@
 const boolTrue = true;
-const str = 'mySrt';
+const str = 'myStr';
 const num = 33;
 
 /**
@@ -29,7 +29,7 @@ numMultFalseBool = num * false;
 console.log('str * bool: ', strMultBool);
 console.log('str * num: ', strMultNum);
 console.log('num * true bool: ', numMultTrueBool);
-console.log('num * false bool: ', numMultTrueBool);
+console.log('num * false bool: ', numMultFalseBool);
 console.log('');
 
 /**
@@ -70,6 +70,7 @@ console.log('num to string', (99).toString());
 console.log('\nConvert string to boolean');
 console.log('str to bool: ', Boolean('has value'));
 console.log('str to bool empty: ', Boolean(''));
+console.log('str to bool whitespace: ', Boolean(' '));
 
 console.log('\nConvert boolean to string');
 console.log('false bool to str: ', String(false));
